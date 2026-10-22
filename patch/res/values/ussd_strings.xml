@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ussd_service_label">OfflinePay USSD Helper</string>
+    <string name="ussd_service_desc">OfflinePay sirf *99# payment ke dauran bank ka USSD popup padhta hai aur menu/amount/UPI ID jaisa jawab apne aap bharta hai. Yeh aapka koi aur data nahi padhta.</string>
+</resources>
